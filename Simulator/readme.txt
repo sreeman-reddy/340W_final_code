@@ -27,3 +27,4 @@ user the option to save the box score to a .txt file.
 Run Main-looped.py for-
 Our modified version which allows the user to run the simulation any number of times.
 It also provides win probability of each team along with the actual win-probability acraped from www.baseball-reference.com
+Note- If the code does not complete execution in 5 minutes, run it again. The program goes into an infinite loop due to an error in the new loop we implemented that we haven/t figured out yet. Please run the code again until a result is obtained.
